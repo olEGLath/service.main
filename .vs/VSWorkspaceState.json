@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.mvn",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\rocketseat",
+    "\\src\\main\\java\\com\\rocketseat\\service",
+    "\\src\\main\\java\\com\\rocketseat\\service\\main",
+    "\\src\\main\\resources"
+  ],
+  "PreviewInSolutionExplorer": false
+}
